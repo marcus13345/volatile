@@ -1,0 +1,19 @@
+{
+  "name": "volatile",
+  "version": "7.0.0",
+  "description": "synchronous volatile thread lock",
+  "main": "volatile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcus13345/volatile.git"
+  },
+  "author": "Marcus Gosselin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcus13345/volatile/issues"
+  },
+  "homepage": "https://github.com/marcus13345/volatile#readme"
+}
