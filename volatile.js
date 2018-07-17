@@ -1,4 +1,4 @@
-mopdule.exports = class Volatile {
+module.exports = class Volatile {
 	constructor(obj) {
 		this.obj = obj;
 	}
