@@ -1,6 +1,6 @@
 {
   "name": "volatile",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "synchronous volatile thread lock",
   "main": "volatile.js",
   "scripts": {
